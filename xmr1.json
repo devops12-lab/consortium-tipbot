@@ -1,0 +1,53 @@
+{
+    "discord": {
+        "token": "Nzc5MTY5MzIzODgwNjc3Mzc2.X7cn-w.9wXjxN8jUtF45kPQGhdrO03P2RY",
+        "user": "779169323880677376",
+        "giveawayEmoji": "593992166502563865"
+    },
+
+    "coin": {
+        "type": "xmr1",
+        "symbol": "XMR1",
+        "decimals": 18,
+        "withdrawFee": 1,
+        "mintip": 0.01,
+        "infura": "wss://mainnet.infura.io/ws/v3/ae1b882f998649239a02b622599bdf12",
+        "keys": "/root/consortium-tipbot/.infura/keystore/",
+        "addresses": {
+            "wallet": "0x483cce14e46c0c4e5b1ef113e2589957905927d1",
+            "contract": "0x5A09bd013bA1932d7Ebc70D4431e860D0C645dC7"
+
+
+        }
+    },
+
+    "mysql": {
+        "db": "consortium",
+        "tips": "tips",
+        "admins": "admins",
+        "user": "root",
+        "pass": "ferrocker"
+    },
+
+    "commands": {
+        "example": [
+            "716063987799687248"
+        ]
+    },
+
+    "pools": {
+        "pool": {
+            "printName": "Pool",
+            "admins": [
+                "727843666609045620"
+            ],
+            "members": []
+        },
+
+        "giveaways": {
+            "printName": "Giveaways",
+            "admins": [],
+            "members": []
+        }
+    }
+}
