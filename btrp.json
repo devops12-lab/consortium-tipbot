@@ -1,7 +1,7 @@
 {
     "discord": {
-        "token": "Nzc5MTY5MzIzODgwNjc3Mzc2.X7cn-w.9wXjxN8jUtF45kPQGhdrO03P2RY",
-        "user": "779169323880677376",
+        "token": "PUT HERE DISCORD CLIENT ID",
+        "user": "PUT HERE BOT ID",
         "giveawayEmoji": "593992166502563865"
     },
 
@@ -26,7 +26,7 @@
         "tips": "tips",
         "admins": "admins",
         "user": "root",
-        "pass": "ferrocker"
+        "pass": "PUT HERE YOUR PASSWORD OF MYSQL"
     },
 
     "commands": {
