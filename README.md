@@ -1,3 +1,9 @@
+# Recommended VPS Server
+- Ubuntu 18.04
+- RAM: 1 GB
+- STORAGE: 40 GB
+
+
 # Installation of the tipbot
 
 ## CONFIGURE all json file (Edit all of this file)
